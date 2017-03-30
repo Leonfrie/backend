@@ -11,3 +11,6 @@ inleveropdrachten van backend
 
 10/3/2016
   opdrachten 2, 3, 4 laten nakijken en in GIT gezet
+
+30/3/2016
+  opdrachten 5 en 6 laten nakijken en ingeleverd. 
